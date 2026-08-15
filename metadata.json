@@ -1,0 +1,7 @@
+{
+  "name": "Atmaterra Buildwork",
+  "description": "Aplikasi Manajemen Laporan Proyek Konstruksi PT Atmaterra Buildwork Indonesia - Masjid Griya Perwira Asri, Rehab Lo Villa, Mykost, Kost Gor",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
